@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<annotation>
+	<original_name>pedrapreta2</original_name>
+	<name_id>score-1_14</name_id>
+	<farm>4</farm>
+	<diet_composition>MD</diet_composition>
+	<feed_bunk_background>rubber</feed_bunk_background>
+	<feed_bunk_format>j-bunk</feed_bunk_format>
+	<adjustment>maintenance</adjustment>
+	<score>1</score>
+</annotation>

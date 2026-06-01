@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<annotation>
+	<original_name>IMG_3600</original_name>
+	<name_id>score-0.5_150</name_id>
+	<farm>5</farm>
+	<diet_composition>cornmeal_soybean-meal_mineral-supplement</diet_composition>
+	<feed_bunk_background>cement</feed_bunk_background>
+	<feed_bunk_format>h-bunk</feed_bunk_format>
+	<adjustment>increase</adjustment>
+	<score>0.5</score>
+</annotation>

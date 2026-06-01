@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<annotation>
+	<original_name>DSC00348</original_name>
+	<name_id>score-1_1</name_id>
+	<farm>2</farm>
+	<diet_composition>cornmeal_soybean-hulls_ddg_corn-silage</diet_composition>
+	<feed_bunk_background>cement</feed_bunk_background>
+	<feed_bunk_format>h-bunk</feed_bunk_format>
+	<adjustment>maintenance</adjustment>
+	<score>1</score>
+</annotation>
