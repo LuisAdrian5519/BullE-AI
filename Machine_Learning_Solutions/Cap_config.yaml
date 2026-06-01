@@ -1,5 +1,5 @@
-train: C:\Users\santi\Documents\LA\FBSI\train
-val: C:\Users\santi\Documents\LA\FBSI\val
+train: C:...\FBSI\train
+val: C:...\FBSI\val
 
 # Feeder-level classes (one folder per score)
 names:

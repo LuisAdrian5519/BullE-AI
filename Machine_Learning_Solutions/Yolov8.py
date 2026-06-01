@@ -6,7 +6,7 @@ from ultralytics import YOLO
 model = YOLO("yolov8n-cls.yaml")
 
 # Train using the FBSI feeder dataset configured in Cap_config.yaml
-model.train(data=r"C:\Users\santi\Documents\LA\FBSI", epochs=50, batch=32, device='cpu', workers=0)
+model.train(data=r"C:...\FBSI", epochs=50, batch=32, device='cpu', workers=0)
 
 # model.train(data="config.yaml", epochs=15, batch=32, device=0, fraction = 0.20, workers=0, 
 #             lr0=0.01,

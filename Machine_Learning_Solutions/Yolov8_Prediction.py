@@ -11,7 +11,7 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default=r"C:\Users\santi\Documents\LA\CubeRT_Cubesat\Software\Machine_Learning_Solutions\runs\classify\train-2\weights\best.pt",
+        default=r"C:...\Machine_Learning_Solutions\runs\classify\train-2\weights\best.pt",
         help="Ruta al modelo entrenado de clasificación",
     )
     parser.add_argument(
